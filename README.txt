@@ -1,6 +1,8 @@
 The paper submitted to [Elpub 2016] is accessible at 
 http://dx.doi.org/10.3233/978-1-61499-649-1-105.
 
+The extended versio of this paper is accessible at https://arxiv.org/abs/1611.01820
+
 This paper is about: Identifying and Improving Dataset References in Social Sciences Full Texts
 
 - The suggested approach tries to make explicit links to datasets in papers that have been published already.
